@@ -1,2 +1,3 @@
 append this line
 Next line
+Simulate merge conflicts
