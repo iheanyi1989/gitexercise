@@ -1,8 +1,0 @@
-append this line
-Next line
-Simulate merge conflicts
-Assume
-Someone
-Made 
-Changes
-Overnight
